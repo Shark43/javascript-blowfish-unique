@@ -17,5 +17,15 @@
     "url": "https://github.com/Shark43/javascript-blowfish-unique/issues"
   },
   "homepage": "https://github.com/Shark43/javascript-blowfish-unique#readme",
-  "types": "Blowfish.d.ts"
+  "types": "Blowfish.d.ts",
+  "keywords": [
+    "node",
+    "js",
+    "blowfish",
+    "encryption",
+    "decryption",
+    "encypher",
+    "decypher",
+    "javascript"
+  ]
 }
