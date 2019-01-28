@@ -2,7 +2,7 @@
   "name": "javascript-blowfish-unique",
   "version": "1.0.2",
   "description": "Blowfish encryption library Javascript, jquery,coffeescript (blowfish.js)",
-  "main": "Blowfish.js",
+  "main": "Blowfish.node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Shark43/javascript-blowfish-unique.git"
   },
-  "author": "",
+  "author": "shark43",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Shark43/javascript-blowfish-unique/issues"
