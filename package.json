@@ -1,0 +1,21 @@
+{
+  "name": "javascript-blowfish-unique",
+  "version": "1.0.0",
+  "description": "Blowfish encryption library Javascript, jquery,coffeescript (blowfish.js)",
+  "main": "Blowfish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shark43/javascript-blowfish-unique.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shark43/javascript-blowfish-unique/issues"
+  },
+  "homepage": "https://github.com/Shark43/javascript-blowfish-unique#readme",
+  "types": "Blowfish.d.ts"
+}
